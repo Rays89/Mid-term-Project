@@ -1,0 +1,7 @@
+c:\users\rachael\source\repos\Mini Project Racheal\Mini Project Racheal\bin\Debug\Mini Project Racheal.exe.config
+c:\users\rachael\source\repos\Mini Project Racheal\Mini Project Racheal\bin\Debug\Mini Project Racheal.exe
+c:\users\rachael\source\repos\Mini Project Racheal\Mini Project Racheal\bin\Debug\Mini Project Racheal.pdb
+c:\users\rachael\source\repos\Mini Project Racheal\Mini Project Racheal\obj\Debug\Mini Project Racheal.csproj.CoreCompileInputs.cache
+c:\users\rachael\source\repos\Mini Project Racheal\Mini Project Racheal\obj\Debug\Mini Project Racheal.exe
+c:\users\rachael\source\repos\Mini Project Racheal\Mini Project Racheal\obj\Debug\Mini Project Racheal.pdb
+c:\users\rachael\source\repos\Mini Project Racheal\Mini Project Racheal\obj\Debug\Mini Project Racheal.csprojResolveAssemblyReference.cache
